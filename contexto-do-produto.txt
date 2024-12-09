@@ -1,0 +1,39 @@
+# Contexto do Produto
+
+**Produto**: "FitLife" - Um aplicativo para gestão de saúde e bem-estar.
+O objetivo do produto é oferecer uma solução integrada para monitoramento de hábitos saudáveis, como atividades físicas, nutrição e hidratação, além de fornecer insights personalizados para melhorar a qualidade de vida dos usuários.
+
+## Stakeholders, Usuários e Clientes
+
+**Stakeholders**:
+1. Investidores: Interessados no retorno financeiro do produto.
+2. Nutricionistas e Personal Trainers: Parceiros que podem recomendar o aplicativo para seus clientes.
+3. Equipe de Desenvolvimento: Responsável pela criação do produto.
+
+**Usuários**:
+- Pessoas que buscam melhorar a saúde e manter hábitos saudáveis.
+- Faixa etária principal: 18 a 40 anos.
+- Perfil: Usuários de smartphones com interesse em fitness e nutrição.
+
+**Clientes**:
+- Empresas de academias ou clínicas de saúde que desejam oferecer o aplicativo como benefício aos seus membros.
+- Indivíduos que desejam pagar pelo plano premium para ter acesso a funcionalidades extras, como planos personalizados e relatórios detalhados.
+
+## Time Scrum
+
+**Equipe Enxuta (4 pessoas)**:
+1. **Product Owner (PO)**:
+   - Papel: Define prioridades, representa a visão do cliente e organiza o backlog.
+   - Perfil: Experiência em gestão de produtos e habilidade de comunicação com stakeholders.
+
+2. **Scrum Master**:
+   - Papel: Facilita o processo ágil, remove impedimentos e garante que o time siga a metodologia Scrum.
+   - Perfil: Experiência com métodos ágeis e excelente capacidade de liderança.
+
+3. **Desenvolvedor(a) Front-End**:
+   - Papel: Responsável pela interface do usuário e interação visual.
+   - Habilidades: HTML, CSS, JavaScript (React ou similar).
+
+4. **Desenvolvedor(a) Back-End**:
+   - Papel: Cuida da lógica de negócios, banco de dados e integração de APIs.
+   - Habilidades: Python (Django/Flask) ou Node.js, experiência com bancos de dados relacionais.
